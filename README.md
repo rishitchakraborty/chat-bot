@@ -1,5 +1,5 @@
-# Chatbot_Keras
+## Chatbot_Keras
 
-source venv/bin/activate
-python train.py
-python chat.py
+# source venv/bin/activate 
+# python train.py
+# python chat.py
